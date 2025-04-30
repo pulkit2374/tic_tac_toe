@@ -94,7 +94,6 @@ python tic_tac_toe.py
 ```
 tic_tac_toe.py    # Main Python file containing all game logic and UI
 README.md         # Project documentation
-
 ```
 
 
